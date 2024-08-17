@@ -32,11 +32,11 @@
                                 <div class="w-10 h-10 shrink-0 mr-2 sm:mr-3">
                                     <img class="rounded-full" src="{{ asset('images/user-36-05.jpg') }}" width="40" height="40" alt="Alex Shatov" />
                                 </div>
-                                <div class="font-medium text-gray-800">Alex Shatov</div>
+                                <div class="font-medium text-gray-800">Test 1</div>
                             </div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
-                            <div class="text-left">alexshatov@gmail.com</div>
+                            <div class="text-left">test1@gmail.com</div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
                             <div class="text-left font-medium text-green-500">$2,890.66</div>
@@ -51,11 +51,11 @@
                                 <div class="w-10 h-10 shrink-0 mr-2 sm:mr-3">
                                     <img class="rounded-full" src="{{ asset('images/user-36-06.jpg') }}" width="40" height="40" alt="Philip Harbach" />
                                 </div>
-                                <div class="font-medium text-gray-800">Philip Harbach</div>
+                                <div class="font-medium text-gray-800">Test 2</div>
                             </div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
-                            <div class="text-left">philip.h@gmail.com</div>
+                            <div class="text-left">test2@gmail.com</div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
                             <div class="text-left font-medium text-green-500">$2,767.04</div>
@@ -70,11 +70,11 @@
                                 <div class="w-10 h-10 shrink-0 mr-2 sm:mr-3">
                                     <img class="rounded-full" src="{{ asset('images/user-36-07.jpg') }}" width="40" height="40" alt="Mirko Fisuk" />
                                 </div>
-                                <div class="font-medium text-gray-800">Mirko Fisuk</div>
+                                <div class="font-medium text-gray-800">Test 3</div>
                             </div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
-                            <div class="text-left">mirkofisuk@gmail.com</div>
+                            <div class="text-left">test3@gmail.com</div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
                             <div class="text-left font-medium text-green-500">$1,220.66</div>
@@ -89,11 +89,11 @@
                                 <div class="w-10 h-10 shrink-0 mr-2 sm:mr-3">
                                     <img class="rounded-full" src="{{ asset('images/user-36-08.jpg') }}" width="40" height="40" alt="Burak Long" />
                                 </div>
-                                <div class="font-medium text-gray-800">Burak Long</div>
+                                <div class="font-medium text-gray-800">Test 4</div>
                             </div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
-                            <div class="text-left">longburak@gmail.com</div>
+                            <div class="text-left">test4@gmail.com</div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
                             <div class="text-left font-medium text-green-500">$1,890.66</div>
@@ -108,11 +108,11 @@
                                 <div class="w-10 h-10 shrink-0 mr-2 sm:mr-3">
                                     <img class="rounded-full" src="{{ asset('images/user-36-09.jpg') }}" width="40" height="40" alt="Alex Shatov" />
                                 </div>
-                                <div class="font-medium text-gray-800">Alex Shatov</div>
+                                <div class="font-medium text-gray-800">Test 5</div>
                             </div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
-                            <div class="text-left">alexshatov@gmail.com</div>
+                            <div class="text-left">test5@gmail.com</div>
                         </td>
                         <td class="p-2 whitespace-nowrap">
                             <div class="text-left font-medium text-green-500">$2,890.66</div>
